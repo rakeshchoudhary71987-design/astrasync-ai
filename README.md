@@ -1,4 +1,4 @@
-# AstroSync AI: Deep Space Bandwidth Optimization Protocol
+# AstroSync_V1.py.: Deep Space Bandwidth Optimization Protocol
 
 ## 🚀 Overview
 **AstroSync AI** is a lightweight terrain-mapping data compression and predictive reconstruction protocol designed to solve severe bandwidth and latency limitations in Deep Space Network (DSN) communications. 
